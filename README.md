@@ -74,7 +74,7 @@ The chart represents number of trips permonth.
 The image shows the average delay duration for every month but the lines are dicontinuous because of outlliers making t difficult to understand the data. 
 ![image](https://github.com/user-attachments/assets/5e599169-be56-4437-9198-6285c0f2eb2a)
 The image shows the average delivery duration.    
---
+---
 7. **Correlation Analysis**
    - Explored relationships between transportation distance and delivery timelines.
 
@@ -84,12 +84,11 @@ TRANSPORTATION_DISTANCE_IN_KM                       1.000000    0.125025
 actual_eta                                          0.125025    1.000000   
 Planned_ETA                                         0.129862    0.999515   
 
-                               Planned_ETA  
+                                 Planned_ETA  
 TRANSPORTATION_DISTANCE_IN_KM     0.129862  
 actual_eta                        0.999515  
 Planned_ETA                       1.000000 
 
----
 
 ## 📊 Dashboard Highlights (Visualized in Matplotlib)
 
