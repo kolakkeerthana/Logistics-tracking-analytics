@@ -1,13 +1,8 @@
 
 
 # 📦 Logistics Tracking and Transportation Analysis
-![image](https://github.com/user-attachments/assets/35607d84-67be-44ad-b390-d9fabbd2797f) ![image](https://github.com/user-attachments/assets/8d797b0a-2586-4b60-8057-d2a9166e3222) ![image](https://github.com/user-attachments/assets/48892f26-9b60-41ae-a09f-8c38c6f80a20) ![image](https://github.com/user-attachments/assets/8e00124b-e0e2-48c1-b1b6-0e4793048c58)
-
-
-
-
-
-Image : Broad Range Logistics | navata | FedEx | expressitdelivery
+ ![image](https://github.com/user-attachments/assets/8e00124b-e0e2-48c1-b1b6-0e4793048c58)
+Image :  expressitdelivery
 ## 📌 Introduction
 This project explores a dataset sourced from Kaggle containing detailed records of logistics tracking and transportation events. The dataset was originally in `.xlsx` format and focuses on shipment timelines, supplier performance, vehicle utilization, and delivery efficiency.
 
